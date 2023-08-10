@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @awahcodes
-- 👀 I’m interested in a Freelance role as a Front-End Web Developer
-- 🌱 I’m currently learning back-end Web development
+- 👋 Hi, I’m Adewale Aniyera (@awahcodes)
+- 👀 If you looking for a result oriented analytical thinker, a fast learner and astute problem solver, please drop me a chat. I am passionate about using data-      driven insights to unlock growth opportunities and optimize business performance. Let’s connect to discuss how I can contribute to your team’s success and collaborate on data-driven solutions.
+- 🌱 I’m currently learning Full Stack Web development
 - 💞️ I’m looking to collaborate on projects particularly complex ones.
 - 📫 How to reach me: via email on awahcodes@gmail.com
 
