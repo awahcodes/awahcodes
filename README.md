@@ -6,7 +6,9 @@ A very result-driven Data Analyst with experience in operations and commercial a
 
 When I am not coding 😃, I am most likely at an aquarium admiring the aquatic world 🤟
 
-## Proficiency:
+## Proficiency: 
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="30"> <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30">  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="110"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="30">
 
 - **Language**: SQL, Python, JavaScript
 - **Visualisation Tools** : Power BI, Looker Studio and Tableau
