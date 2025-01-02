@@ -4,6 +4,8 @@ Hi, I am Adewale Aniyera.
 
 A very result-driven Data Analyst with experience in operations and commercial analyst roles. My industry knowledge are in Logistics, Energy, Telecommunications and Health. I use analytic tools to obtain Data-driven insights to optimize business processes & unlock growth opportunities.
 
+When I am not coding 😃, I am most likely at an aquarium admiring the aquatic world 🤟
+
 ## Proficiency:
 
 - **Language**: SQL, Python, JavaScript
